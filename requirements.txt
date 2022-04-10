@@ -1,0 +1,8 @@
+arrow==0.13.1
+Click==7.0
+cryptography==2.6.1
+eyed3==0.9.6
+loguru==0.2.5
+mutagen==1.42.0
+requests==2.21.0
+Unidecode==1.0.23
