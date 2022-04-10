@@ -47,4 +47,4 @@ pip install -r requirements.txt
 * Profit !
 
 ## Notes
-This package not maintained by me. Original code was available on [GitLab](https://gitlab.com/uvu/deezmp3s)
+This package not maintained by [me](https://github.com/turbulentie). Original code was available on [GitLab](https://gitlab.com/uvu/deezmp3s)
