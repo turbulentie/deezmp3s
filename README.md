@@ -10,7 +10,7 @@
 ```
 
 ## STATUS
-Originally coded by [UVU](https://gitlab.com/uvu). Archieved on Github for own usage.
+Originally coded by [UVU](https://gitlab.com/uvu). Archieved on [Github](https://github.com/turbulentie/deezmp3s) for own usage.
 
 ## What is it
 This is ripper and packer from deezer.
